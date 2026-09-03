@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nozima+Abduazizova+%F0%9F%91%8B;Data+Scientist+%7C+CV+%26+ML+Engineer;Gait+Analysis+%7C+VLM+Evaluation+%7C+RAG;Building+AI+systems+that+work+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+AI/ML+Backend+Engineer+%F0%9F%91%8B;Data+Scientist+%7C+CV+%26+ML+Engineer;Gait+Analysis+%7C+VLM+Evaluation+%7C+RAG;Building+AI+systems+that+work+in+production" alt="Typing SVG" />
 
 <br/>
 
@@ -13,9 +13,9 @@
 
 ## About Me
 
-Data Scientist with hands-on experience across the full ML pipeline — from data collection and EDA to model training, evaluation, and production deployment. My strongest area is **Computer Vision**: pose estimation, gait analysis, object detection, and multimodal model benchmarking.
+Data Scientist with hands-on experience across the full machine learning lifecycle — from data collection and exploratory data analysis to model training, evaluation, and production deployment. My strongest area is Computer Vision, including pose estimation, gait analysis, object detection, and multimodal model benchmarking.
 
-Beyond modeling, I build the backend infrastructure around AI systems — REST APIs, containerized deployments, and async pipelines — so models actually run reliably in production.
+Beyond modeling, I build the backend infrastructure around AI systems, including REST APIs, containerized deployments, and asynchronous pipelines, helping machine learning solutions run reliably in production.
 
 - **Core focus:** Computer Vision · Deep Learning · NLP/LLM · RAG systems
 - **Also solid in:** FastAPI · Django · PostgreSQL · Docker · Redis
